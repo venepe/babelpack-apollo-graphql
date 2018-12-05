@@ -9,3 +9,6 @@ yarn
 yarn migrate up
 yarn dev
 ```
+
+### Template used
+https://github.com/developer239/react-apollo-graphql
